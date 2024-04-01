@@ -8,3 +8,6 @@ All this information is stored in **H2 in-memory database**
 We can fetch all the accounts related to one particular user using **user/accounts** end-point
 
 We can perform deposit, withdraw, and transfer operations for a particular account with proper **exception handling**
+
+For testing purpose 
+Postman collection Json is attached.
